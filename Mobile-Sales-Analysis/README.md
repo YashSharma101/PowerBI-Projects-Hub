@@ -20,3 +20,4 @@ An interactive **Power BI dashboard** designed to analyze mobile sales performan
 To transform raw mobile sales data into an **interactive, data-driven dashboard** that helps identify sales trends, top-performing products, customer preferences, and regional opportunities.
 
 ### 📁 File
+"https://github.com/YashSharma101/PowerBI-Projects-Hub/blob/main/Mobile-Sales-Analysis/Mobile%20Sales%20Dashboard.pbix"
